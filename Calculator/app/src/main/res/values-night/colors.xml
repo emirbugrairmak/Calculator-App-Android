@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="turuncu_button_yazi">#FF8800</color>
+    <color name="arka_plan_button_gri">#FFFFFFFF</color>
+    <color name="arka_plan_button_turuncu">#FBA72C</color>
+    <color name="button_yazi_siyah">#FF000000</color>
+    <color name="beyaz_button_yazi">#FFFFFFFF</color>
+</resources>
